@@ -1,0 +1,1918 @@
+get_item_by_vendor
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+Array
+(
+)
+
+test
+purchase:table_item_list
+Array
+(
+)
+
+file_exists
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+Array
+(
+)
+
+clients:__construct
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpadmin
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+supplier
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+supplier
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+supplier
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+supplier
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+commodity_list_add_edit
+Array
+(
+    [default_category_enable] => false
+    [vehicle_make] => 11
+    [vehicle_model] => 11
+    [number_of_passengers] => 11
+    [number_of_suitcases] => 11
+    [extra_time_enable] => false
+    [extra_time_min] => 
+    [extra_time_max] => 
+    [extra_time_step] => 
+    [base_location] => 11
+    [vehicle_availability_enable] => false
+    [bookings_interval] => 1
+    [price_type_variable] => false
+    [meet_included_enable] => 
+    [attribute_countries] => BE
+    [google_calendar_enable] => false
+    [google_calendar_id] => 
+    [google_calendar_settings] =>   
+)
+
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 32
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 21
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+test
+purchase:table_item_list
+Array
+(
+)
+
+table_item_list.phpArray
+file_exists
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 32
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 21
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+commodity_list_add_edit
+Array
+(
+    [default_category_enable] => false
+    [vehicle_make] => 11
+    [vehicle_model] => 11
+    [number_of_passengers] => 11
+    [number_of_suitcases] => 11
+    [extra_time_enable] => false
+    [extra_time_min] => 
+    [extra_time_max] => 
+    [extra_time_step] => 
+    [base_location] => 11
+    [vehicle_availability_enable] => false
+    [bookings_interval] => 1
+    [price_type_variable] => false
+    [meet_included_enable] => 
+    [attribute_countries] => BE
+    [google_calendar_enable] => false
+    [google_calendar_id] => 
+    [google_calendar_settings] =>   
+    [driver_lang] => 
+)
+
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+commodity_list_add_edit
+Array
+(
+    [default_category_enable] => false
+    [vehicle_make] => 22
+    [vehicle_model] => 44
+    [number_of_passengers] => 33
+    [number_of_suitcases] => 55
+    [extra_time_enable] => false
+    [extra_time_min] => 
+    [extra_time_max] => 
+    [extra_time_step] => 
+    [base_location] => 66
+    [vehicle_availability_enable] => false
+    [bookings_interval] => 1
+    [price_type_variable] => false
+    [meet_included_enable] => 
+    [attribute_countries] => BE
+    [google_calendar_enable] => false
+    [google_calendar_id] => 
+    [google_calendar_settings] =>   
+    [driver_lang] => 
+)
+
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 34
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 23
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 34
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 23
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
+test
+purchase:table_item_list
+Array
+(
+)
+
+table_item_list.phpArray
+purchase: get_item_data_ajax
+
+purchase: get_item_data_ajax
+
+purchase: get_item_data_ajax
+
+commodity_list_add_edit id:
+Array
+(
+    [default_category_enable] => false
+    [vehicle_make] => 44
+    [vehicle_model] => 4
+    [number_of_passengers] => 44
+    [number_of_suitcases] => 4
+    [extra_time_enable] => false
+    [extra_time_min] => 
+    [extra_time_max] => 
+    [extra_time_step] => 
+    [base_location] => 4
+    [vehicle_availability_enable] => false
+    [bookings_interval] => 1
+    [price_type_variable] => false
+    [meet_included_enable] => 
+    [attribute_countries] => BE
+    [google_calendar_enable] => false
+    [google_calendar_id] => 
+    [google_calendar_settings] =>   sdfsdfdsf
+    [driver_lang] => 
+)
+
+test
+purchase:table_item_list
+Array
+(
+)
+
+table_item_list.phpArray
+commodity_list_add_edit id:
+update_commodity_one_item24
+Array
+(
+    [default_category_enable] => false
+    [group_id] => 2
+    [vehicle_make] => 44
+    [vehicle_model] => 4
+    [number_of_passengers] => 44
+    [number_of_suitcases] => 4
+    [extra_time_enable] => false
+    [extra_time_min] => 1
+    [extra_time_max] => 1
+    [extra_time_step] => 1
+    [base_location] => 4
+    [vehicle_availability_enable] => false
+    [bookings_interval] => 1
+    [price_type_variable] => false
+    [meet_included_enable] => 
+    [attribute_countries] => BE
+    [google_calendar_enable] => false
+    [google_calendar_id] => 0
+    [google_calendar_settings] =>   sdfsdfdsf
+    [driver_lang] => 
+)
+
+test
+purchase:table_item_list
+Array
+(
+)
+
+table_item_list.phpArray
+purchase: get_item_data_ajax
+
+test
+purchase:table_item_list
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor
+Array
+(
+)
+
+table_item_list.phpArray
+get_item_by_vendor
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor
+Array
+(
+)
+
+table_item_list.phpArray
+file_exists
+get_item_by_vendor7
+vendors_portal:items
+Array
+(
+    [title] => Vehicles
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 6
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [1] => Array
+                (
+                    [id] => 31
+                    [vendor] => 7
+                    [group_items] => 0
+                    [items] => 7
+                    [add_from] => 4
+                    [datecreate] => 2020-09-04
+                )
+
+            [2] => Array
+                (
+                    [id] => 33
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 22
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 34
+                    [vendor] => 7
+                    [group_items] => 
+                    [items] => 23
+                    [add_from] => 4
+                    [datecreate] => 
+                )
+
+        )
+
+    [commodity_groups] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Car
+                    [commodity_group_code] => 001
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Bus
+                    [commodity_group_code] => 002
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Truck
+                    [commodity_group_code] => 003
+                    [order] => 0
+                    [display] => 1
+                    [note] => 0
+                )
+
+        )
+
+)
+
+test
+file_exists
+vendors portal :table_item_list
+get_item_by_vendor7
+Array
+(
+)
+
+table_item_list.phpArray
